@@ -16,7 +16,7 @@ class MainKtTest {
             moneyTransfer = moneyTransfer
         )
 
-        assertEquals(0, result)
+        assertEquals(1, result)
     }
 
     @Test
